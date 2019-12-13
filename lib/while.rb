@@ -1,4 +1,4 @@
-require_relative
+
 levitation_force = 0
 def using_while
   until counter == 10
